@@ -49,6 +49,11 @@ Anything that modifies the official Discord client.
 * Status: Maintained
 * Discord Server: https://discord.gg/8mPTjTZ4SZ
 
+### Unbound 
+* Slogan/Description: *A discord client aimed at giving the user control, stability, a beautiful appearance, and freeing them from the shackles of other client modifications.<sup>
+* Status: Maintained (closed alpha)
+* Discord Server: https://discord.gg/jDmSKShntG
+
 ## Custom Clients/Re-implementations
 Anything that does not run as a modification to the official Discord client, running as a standalone app instead.
 
